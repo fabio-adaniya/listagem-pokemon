@@ -1,0 +1,17 @@
+/* box-sizing = border-box = significa que vai considerar a borda no tamanho total */
+* {
+    font-family: 'Roboto', 'sans-serif';
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f6f8fc;
+}
+
+/*rem = significa que é uma medida relativa*/
+.content {
+    width: 100vv;
+    height: 100vh;
+    padding: 1rem;
+    background-color: #fff;
+}
