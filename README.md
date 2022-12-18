@@ -1,6 +1,6 @@
 # Listagem de Pokémon
 
-Listagem de pokémon construída com o acompanhamento das aulas do bootcamp da [dio](https://www.dio.me/).<br>
+Listagem de pokémon construída com o acompanhamento das aulas do bootcamp da [Dio](https://www.dio.me/).<br>
 Foi realizado o consumo da api [PokéAPI](https://pokeapi.co/) para trazer os pokémons na listagem.
 
 Tecnologias utilizadas:
